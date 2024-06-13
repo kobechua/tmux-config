@@ -1,6 +1,8 @@
+
+
 *
 
 !.gitignore
 !.tmux.conf
 
-!.tmux/*
+!.tmux/
